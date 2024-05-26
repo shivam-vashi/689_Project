@@ -3,9 +3,6 @@
 [1]Cataffo, V., Silano, G., Iannelli, L., Puig, V., and Glielmo, L., “A Nonlinear Model Predictive Control Strategy for Autonomous Racing of Scale Vehicles”, <i>arXiv e-prints</i>, 2023. doi:10.48550/arXiv.2302.04722.
 
 
-
-# Project Setup Instructions
-
 ## Steps to Run the Code
 
 ### Step 1
