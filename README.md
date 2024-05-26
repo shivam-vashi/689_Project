@@ -3,6 +3,18 @@
 [1]Cataffo, V., Silano, G., Iannelli, L., Puig, V., and Glielmo, L., “A Nonlinear Model Predictive Control Strategy for Autonomous Racing of Scale Vehicles”, <i>arXiv e-prints</i>, 2023. doi:10.48550/arXiv.2302.04722.
 
 
+## Overview
+
+Cataffo et al [1] provided an algorithm using Model Predictive Control for generating lap-time minimizing policy (steering and throttle inputs) for autonomous racing of 1/10 scale vehicles inspired from the F1tenth competition- https://f1tenth.org/
+
+This repository contains the code and results of implementing the said algorithm. The lap time optimality claim made by the authors is challenged and discussed thoroughly in the file- 334003552_MEEN_689_Project.pdf 
+
+## Results
+<img src="Simulation_Results.png" width="600" height = "333" alt="Simulation_Results.png">
+<img src="Control_Inputs.png" width="600" height = "333" alt="Control_Inputs.png">
+
+
+
 ## Steps to Run the Code
 
 ### Step 1
